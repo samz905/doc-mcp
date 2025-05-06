@@ -1,0 +1,1 @@
+Cursor used the MCP SDK to create an MCP client in their app that can now use MCP servers like Figma.
